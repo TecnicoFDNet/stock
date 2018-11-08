@@ -26,7 +26,7 @@ include 'conect.php';
 	</head>	<body>
 	<!--INICIO HEADER-->
 		<header class="w3-container w3-theme">
-			<h3>::CONTROLE DE MATERIAIS::</h3>
+			<h3>CONTROLE DE MATERIAIS</h3>
 			<div class="w3-bar w3-theme">
 				<a href="#" class="w3-bar-item w3-button">Home</a>
 				<!--<a href="#" class="w3-bar-item w3-button w3-hide-small">Cadastrar</a>-->
